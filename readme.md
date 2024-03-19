@@ -33,4 +33,4 @@ start server
 go run restful.go
 ```
 
-เข้าดูได้ที่ localhost:8000/id
+เข้าดูได้ที่ [a link](localhost:8000/id)
