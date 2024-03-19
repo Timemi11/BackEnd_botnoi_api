@@ -30,5 +30,7 @@ go mod init main
 start server
 
 ```
-go run main
+go run restful.go
 ```
+
+เข้าดูได้ที่ localhost:8000/id
